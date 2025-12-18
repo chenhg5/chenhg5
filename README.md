@@ -6,11 +6,6 @@ Passionate about building tools that boost developer efficiency and automate wor
 
 ---
 
-### ⏱ Activity
-![GitHub Streak](https://streak-stats.demolab.com?user=chenhg5&theme=tokyonight)
-
----
-
 ### 🌐 Connect with Me
 
 - 🐦 Twitter: https://x.com/chg80333
