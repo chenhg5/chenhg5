@@ -3,7 +3,7 @@
 Golang backend engineer focusing on productivity tools, enterprise collaboration systems, and AI-assisted development.  
 Author of **go-admin** (8600+ ⭐), a popular Golang admin framework.  
 Passionate about building tools that boost developer efficiency and automate workflows.
-I am now building [Modern Mermaid](https://modern-mermaid.live) and [browserwing](https://github.com/browserwing/browserwing)
+I am now building [Modern Mermaid](https://modern-mermaid.live) and [browserwing](https://github.com/browserwing/browserwing) and [cc-connect](https://github.com/chenhg5/cc-connect)
 
 ---
 
